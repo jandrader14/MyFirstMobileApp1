@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">MyFirstMobileApp</string>
-    <string name="Welcome_text">Welcome to our First App!</string>
+    <string name="app_name">MyApp</string>
+    <string name="Welcome_text">Welcome to Tommys App!</string>
 </resources>
